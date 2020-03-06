@@ -1,4 +1,4 @@
 # IT Terms Glossary
 
-* [English](english.md)
-* [French](french.md)
+* :gb: [English](english.md)
+* :fr: [French](french.md)
