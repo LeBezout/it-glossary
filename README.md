@@ -1,2 +1,4 @@
-# it-glossary
-IT Terms Glossary
+# IT Terms Glossary
+
+* [English](english.md)
+* [French](french.md)
