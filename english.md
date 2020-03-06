@@ -12,6 +12,7 @@
 * :gb: `ADAM` : Active Directory Application Mode
 * :gb: `ADCS` : Active Directory Certificate Services
 * :gb: `ADDS` : Active Directory Domain Services
+* :gb: `ADM` : Active Data Management
 * :gb: `ADRMS` : Active Directory Rights Management Services
 * :gb: `ADLDS` : Active Directory Lightweight Directory Services
 * :gb: `AES` : Advanced Encryption Standard
@@ -24,6 +25,7 @@
 * :gb: `AJP` : Apache JServ Protocol
 * :gb: `AMQP` : Advanced Message Queuing Protocol
 * :gb: `AMR` : Authentication Methods References
+* :gb: `ANSI` : American National Standards Institute
 * :gb: `API` : Application Provider Interface
 * :gb: `APIM` : API Management
 * :gb: `APM` : Application Performance Management
