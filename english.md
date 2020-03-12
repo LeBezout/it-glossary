@@ -269,6 +269,7 @@
 
 ## R
 
+* :gb: `RAD` : Rapid Application Development
 * :gb: `REPL` : Read-Evaluate-Print-Loop
 * :gb: `REST` : REpresentational State Transfer
 * :gb: `RFC` : Requests For Comments
