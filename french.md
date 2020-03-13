@@ -62,6 +62,7 @@
 
 * :fr: `RGPD` : Règlement Général sur la Protection des Données
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
+* :fr: `RTC` : Réseau Téléphonique Commuté
 
 ## S
 
