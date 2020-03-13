@@ -144,9 +144,10 @@
 * :gb: `IaaS` : Infrastructure as a Service
 * :gb: `IAC` : Infrastructure As Code
 * :gb: `IDE` : Integrated Development Environment
+* :gb: `IDZ` : IBM® Developer for z Systems
 * :gb: `IEEE` : Institute of Electrical and Electronics Engineers
 * :gb: `IETF` : Internet Engineering Task Force
-* :gb: `IHS` : IBM HTTP Server
+* :gb: `IHS` : IBM® HTTP Server
 * :gb: `IIS` : Internet Information Service
 * :gb: `IMAP` : Internet Message Access Protocol
 * :gb: `IPA` : Intelligent Process Automation
@@ -279,7 +280,9 @@
 * :gb: `RPA` : Robotic Process Automation
 * :gb: `RPC` : Remote Procedure Call
 * :gb: `RPO` : Recovery Point Objective
+* :gb: `RPP` : Rational® Programming Patterns
 * :gb: `RSA` : Rivest-Shamir-Adleman (algorithme de chiffrement de)
+* :gb: `RTC` : Rational® Team Concert
 * :gb: `RTO` : Recovery Time Objective
 * :gb: `RVM` : Ruby Version Manager
 
