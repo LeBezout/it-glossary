@@ -15,6 +15,7 @@
 * :gb: `ADM` : Active Data Management
 * :gb: `ADRMS` : Active Directory Rights Management Services
 * :gb: `ADLDS` : Active Directory Lightweight Directory Services
+* :gb: `ADSL` : Asymmetric Digital Subscriber Line
 * :gb: `AES` : Advanced Encryption Standard
 * :gb: `AFP` : Apple Filing Protocol
 * :gb: `ADFS` : Active Directory Federation Services
@@ -65,6 +66,7 @@
 * :gb: `CQRS` : Command Query Responsability Separation
 * :gb: `CRC` : Cyclic Redundancy Check
 * :fr: `CRC` : Contrôle de Redondance Cyclique
+* :gb: `CRT` : Cathode Ray tube
 * :gb: `CRUD` : Create Read Update Delete
 * :gb: `CSP` : Cryptographic Service Provider
 * :gb: `CSRF` : Cross-Site Request Forgery (voir XSRF)
