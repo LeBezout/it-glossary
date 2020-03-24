@@ -399,3 +399,4 @@
 
 * :gb: `ZAP` : Zed Attack Proxy
 * :gb: `ZDD` : Zero Downtime Deployment
+* :gb: `ZTNA` : Zero Trust Network Access
