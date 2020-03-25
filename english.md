@@ -78,6 +78,8 @@
 
 * :gb: `DAO` : Data Access Object
 * :gb: `DAS` : Direct Attached Storage
+* :gb: `DB` : Database
+* :gb: `DBMS` : Database Management System
 * :gb: `DCIM` : Digital Camera IMages
 * :gb: `DCIM` : Data Center Infrastructure Management
 * :gb: `DCL` : Data Control Language
