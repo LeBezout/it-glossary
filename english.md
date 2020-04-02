@@ -38,6 +38,8 @@
 
 * :gb: `BDD` : Behavior Driven Development
 * :gb: `BFF` : Backend For Frontend
+* :gb: `BI` : Business Intelligence
+* :gb: `BO` : Back-Office
 * :gb: `BOM` : Bill Of Materials
 * :gb: `BOM` : Byte Order Mark
 * :gb: `BPM` : Business Process Management
@@ -53,10 +55,11 @@
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
 * :gb: `CaaS` : Containers as a Service
-* :gb: `CFP` : Call For Papers
-* :gb: `CFT` : Cross File Transfer
+* :gb: `CDC` : Change Data Capture
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
+* :gb: `CFP` : Call For Papers
+* :gb: `CFT` : Cross File Transfer
 * :gb: `CI/CD` : Continuous Integration / Continuous Deployment
 * :gb: `CICS` : Customer Information Control System
 * :gb: `CIFS` : Common Internet File System
@@ -66,7 +69,7 @@
 * :gb: `CQRS` : Command Query Responsability Separation
 * :gb: `CRC` : Cyclic Redundancy Check
 * :fr: `CRC` : Contrôle de Redondance Cyclique
-* :gb: `CRT` : Cathode Ray tube
+* :gb: `CRT` : Cathode Ray Tube
 * :gb: `CRUD` : Create Read Update Delete
 * :gb: `CSP` : Cryptographic Service Provider
 * :gb: `CSRF` : Cross-Site Request Forgery (voir XSRF)
@@ -105,6 +108,7 @@
 * :gb: `DSL` : Domain Specific Language
 * :gb: `DST` : Daylight Saving Time
 * :gb: `DTO` : Data Transfert Object
+* :gb: `DWH` : Data Ware House
 
 ## E
 
@@ -125,6 +129,7 @@
 * :gb: `FaaS` : Function as a Service
 * :gb: `FAT` : File Allocation Table
 * :gb: `FIFO` : Fist In First Out
+* :gb: `FO` : Front-Office
 * :gb: `FTP` : File Transfer Protocol
 
 ## G
@@ -158,6 +163,8 @@
 * :gb: `IPAM` : IP Address Management
 * :gb: `IOT` : Internet Of Things
 * :gb: `IT` : Information Technology
+* :gb: `ITBM` : IT Business Management
+* :gb: `ITSM` : IT Service Management
 * :gb: `ISE` : Integrated Scripting Environment (_Powershell_)
 * :gb: `ISP` : Interface Segregation Principle
 
@@ -221,6 +228,7 @@
 * :gb: `MD5` : Message Digest 5
 * :gb: `MDC` : Mapped Diagnostic Context(s)
 * :gb: `MFL` : Message Format Language
+* :gb: `MO` : Middle-Office
 * :gb: `MVP` : Minimum Viable Product
 * :gb: `MTU` : Maximum Transmission Unit
 
@@ -297,6 +305,7 @@
 * :gb: `SAN` : Storage Area Network
 * :gb: `SCA` : Software Composition Analysis
 * :gb: `SCA` : Static Code Analysis
+* :gb: `SCCM` : System Center Configuration Manager
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SDN` : Software-Defined Network
 * :gb: `SEO` : Search Engine Optimization
@@ -310,6 +319,7 @@
 * :gb: `SMB` : Server Message Block
 * :gb: `SMTP` : Simple Mail Transfer Protocol
 * :gb: `SMS` : Short Message Service
+* :gb: `SMS` : System Management Server
 * :gb: `SOA` : Service Oriented Architecture
 * :gb: `SOAP` : Simple Object Access Protocol
 * :gb: `SOC` : Separation Of Concerns
