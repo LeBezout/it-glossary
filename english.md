@@ -115,6 +115,7 @@
 * :gb: `EAI` : Enterprise Application Integration
 * :gb: `EAP` : Enterprise Application Platform
 * :gb: `ECMA` : European Computer Manufacturers Association
+* :gb: `ECS` : Elastic Common Schema
 * :gb: `EOF` : End Of File
 * :gb: `EOL` : End Of Line
 * :gb: `EOL` : (product) End Of Life
