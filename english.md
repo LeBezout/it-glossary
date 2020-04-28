@@ -123,6 +123,7 @@
 * :gb: `EPEL` : Extra Packages for Enterprise Linux
 * :gb: `ERP` : Enterprise Ressource Planning
 * :gb: `ESB` : Enterprise Service Bus
+* :gb: `ESM` : Ecma Script Module
 * :gb: `ETL` : Extract Transform Load
 
 ## F
@@ -381,6 +382,7 @@
 * :gb: `W3C` : World Wide Web Consortium
 * :gb: `WAF` : Wepp Application Firewall
 * :gb: `WAS` : WebSphere Application Server
+* :gb: `WASI` : WebAssembly System Interface
 * :gb: `WADL` : Web Application Description Language
 * :gb: `WINE` : Wine Is Not an Emulator
 * :gb: `WOA`: Web Oriented Architecture
