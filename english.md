@@ -116,9 +116,10 @@
 * :gb: `EAP` : Enterprise Application Platform
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `ECS` : Elastic Common Schema
+* :gb: `EIP` : Enterprise Integration Patterns
 * :gb: `EOF` : End Of File
-* :gb: `EOL` : End Of Line
-* :gb: `EOL` : (product) End Of Life
+* :gb: `EOL` : End Of Line (file)
+* :gb: `EOL` : End Of Life (product)
 * :gb: `EJB` : Entreprise Java Bean
 * :gb: `EPEL` : Extra Packages for Enterprise Linux
 * :gb: `ERP` : Enterprise Ressource Planning
