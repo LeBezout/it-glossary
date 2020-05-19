@@ -28,6 +28,8 @@
 * :gb: `AMR` : Authentication Methods References
 * :gb: `ANSI` : American National Standards Institute
 * :gb: `API` : Application Provider Interface
+* :gb: `APT` : Advanced Packaging Tool
+* :gb: `APT` : Advanced Persistent Threat
 * :gb: `APIM` : API Management
 * :gb: `APM` : Application Performance Management
 * :gb: `ATDD` : Acceptance Test-Driven Development
@@ -116,6 +118,7 @@
 * :gb: `EAP` : Enterprise Application Platform
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `ECS` : Elastic Common Schema
+* :gb: `EDR` : Endpoint Detection and Response
 * :gb: `EIP` : Enterprise Integration Patterns
 * :gb: `EOF` : End Of File
 * :gb: `EOL` : End Of Line (file)
