@@ -288,6 +288,7 @@
 
 ## R
 
+* :gb: `RACI` : Responsible, Accountable, Consulted, Informed
 * :gb: `RAD` : Rapid Application Development
 * :gb: `REPL` : Read-Evaluate-Print-Loop
 * :gb: `REST` : REpresentational State Transfer
