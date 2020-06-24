@@ -134,6 +134,7 @@
 
 * :gb: `FaaS` : Function as a Service
 * :gb: `FAT` : File Allocation Table
+* :gb: `FFDC` : First Failure Data Capture (IBM)
 * :gb: `FIFO` : Fist In First Out
 * :gb: `FO` : Front-Office
 * :gb: `FTP` : File Transfer Protocol
