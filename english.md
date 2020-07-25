@@ -116,6 +116,7 @@
 
 * :gb: `EAI` : Enterprise Application Integration
 * :gb: `EAP` : Enterprise Application Platform
+* :gb: `EC2` : (Amazon) Elastic Compute Cloud 
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `ECS` : Elastic Common Schema
 * :gb: `EDR` : Endpoint Detection and Response
@@ -308,6 +309,7 @@
 
 ## S
 
+* :gb: `S3` : Simple Storage Service (Amazon)
 * :gb: `SaaS` : Software as a Service
 * :gb: `SAML` : Security Assertion Markup Language
 * :gb: `SAN` : Storage Area Network
@@ -380,6 +382,7 @@
 * :gb: `VMDK` : Virtual Machine Disk
 * :gb: `VM` : Virtual Machine
 * :gb: `VML` : Vector Markup Language
+* :gb: `VPC` : Virtual Private Cloud
 * :gb: `VPN` : Virtual Private Network
 * :gb: `VO` : Value Object
 
