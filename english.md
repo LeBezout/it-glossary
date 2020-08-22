@@ -292,6 +292,7 @@
 
 * :gb: `RACI` : Responsible, Accountable, Consulted, Informed
 * :gb: `RAD` : Rapid Application Development
+* :gb: `RAID` : Redundant Array of Independent Disks
 * :gb: `REPL` : Read-Evaluate-Print-Loop
 * :gb: `REST` : REpresentational State Transfer
 * :gb: `RFC` : Requests For Comments
