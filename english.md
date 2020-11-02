@@ -24,6 +24,7 @@
 * :gb: `ALM` : Application Lifecycle Management
 * :gb: `ALPN` : Application-Layer Protocol Negotiation
 * :gb: `AJP` : Apache JServ Protocol
+* :gb: `AMD` : Asynchronous Module Definition
 * :gb: `AMQP` : Advanced Message Queuing Protocol
 * :gb: `AMR` : Authentication Methods References
 * :gb: `ANSI` : American National Standards Institute
