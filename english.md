@@ -238,6 +238,7 @@
 * :gb: `MDC` : Mapped Diagnostic Context(s)
 * :gb: `MFL` : Message Format Language
 * :gb: `MO` : Middle-Office
+* :gb: `MQTT` : Message Queuing Telemetry Transport
 * :gb: `MVP` : Minimum Viable Product
 * :gb: `MTU` : Maximum Transmission Unit
 
@@ -300,6 +301,7 @@
 * :gb: `RHEL` : Red Hat Enterprise Linux
 * :gb: `RMI` : Remote Method Invocation
 * :gb: `ROA` : Resource Oriented Architecture
+* :gb: `ROTI` : Return on Time Investment
 * :gb: `RPA` : Robotic Process Automation
 * :gb: `RPC` : Remote Procedure Call
 * :gb: `RPO` : Recovery Point Objective
