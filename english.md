@@ -47,6 +47,7 @@
 * :gb: `BOM` : Byte Order Mark
 * :gb: `BPM` : Business Process Management
 * :gb: `BPMN` : Business Process Model and Notation
+* :gb: `BRMS` : Business Rules Management System
 * :gb: `BSD` : Berkeley Software Distribution
 * :gb: `BYOD` : Bring Your Own Device
 
