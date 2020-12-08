@@ -162,6 +162,7 @@
 * :gb: `IAT` : International Atomic Time
 * :gb: `IaaS` : Infrastructure as a Service
 * :gb: `IAC` : Infrastructure As Code
+* :gb: `ICR` : Intelligent Character Recognition
 * :gb: `IDE` : Integrated Development Environment
 * :gb: `IDZ` : IBM® Developer for z Systems
 * :gb: `IEEE` : Institute of Electrical and Electronics Engineers
@@ -260,6 +261,7 @@
 
 * :gb: `OASIS` : Organization for the Advancement of Structured Information Standards
 * :gb: `OCP` : Open/Closed Principle
+* :gb: `OCR` : Optical Character Recognition
 * :gb: `OIDC` : OpenID Connect
 * :gb: `OKR` : Objectives and Key Results
 * :gb: `OPEX` : OPerational EXpenditure
