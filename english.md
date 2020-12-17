@@ -33,6 +33,7 @@
 * :gb: `APT` : Advanced Persistent Threat
 * :gb: `APIM` : API Management
 * :gb: `APM` : Application Performance Management
+* :gb: `ASF` : Apache Software Foundation
 * :gb: `ATDD` : Acceptance Test-Driven Development
 * :gb: `AWS` : Amazon Web Services
 * :gb: `AWT` : Abstract Windows Toolkit
