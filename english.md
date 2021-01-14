@@ -327,6 +327,7 @@
 * :gb: `SCCM` : System Center Configuration Manager
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SDN` : Software-Defined Network
+* :gb: `SDP` : Software Developer Platform
 * :gb: `SEO` : Search Engine Optimization
 * :gb: `SHA` : Secure Hash Algorithm
 * :gb: `SIEM` : Security Information and Event Management
