@@ -328,6 +328,9 @@
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SDN` : Software-Defined Network
 * :gb: `SDP` : Software Developer Platform
+* :gb: `SDP` : Software Delivery Platform
+* :gb: `SDP` : Software Distribution Platform
+* :gb: `SDP` : Service Delivery Platform
 * :gb: `SEO` : Search Engine Optimization
 * :gb: `SHA` : Secure Hash Algorithm
 * :gb: `SIEM` : Security Information and Event Management
