@@ -352,6 +352,7 @@
 * :gb: `SQL` : Structured Query Language
 * :gb: `SRE` : Site Reliability Engineer
 * :gb: `SRP` : Single Responsibility Principle
+* :gb: `SSE` : Server-Sent Events
 * :gb: `SSL` : Secure Sockets Layer
 * :gb: `SSO` : Single Sign-On
 * :gb: `SSR` : Server Side Rendering
