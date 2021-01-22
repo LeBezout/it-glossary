@@ -284,8 +284,12 @@
 * :gb: `PBE` : Password-Based Encryption
 * :gb: `PCBC` : Propagating Cipher Block Chaining
 * :gb: `PDF` : Portable Document Format
+* :gb: `PDM` : Persistent Data Masking
+* :gb: `PDM` : Product Data Management
 * :gb: `PKCE` : Proof Key for Code Exchange
 * :gb: `PKI` : Public Key Infrastructure
+* :gb: `PLM` : Product Life Cycle Management
+* :gb: `PMD` : Programming Mistake Detector (unofficial)
 * :gb: `POC` : Proof Of Concept
 * :gb: `POJO` : Plain Old Java Object
 * :gb: `POM` : Project Object Model
