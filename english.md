@@ -128,6 +128,7 @@
 * :gb: `EOL` : End Of Line (file)
 * :gb: `EOL` : End Of Life (product)
 * :gb: `EJB` : Entreprise Java Bean
+* :gb: `EKS` : Elastic Kubernetes Service
 * :gb: `EPEL` : Extra Packages for Enterprise Linux
 * :gb: `ERP` : Enterprise Ressource Planning
 * :gb: `ESB` : Enterprise Service Bus
@@ -269,6 +270,7 @@
 * :gb: `OPEX` : OPerational EXpenditure
 * :gb: `ORM` : Object-Relational Mapping
 * :gb: `OS` : Operating System
+* :gb: `OSPF` : Open Shortest Path First
 * :gb: `OSS` : Open-Source Software
 * :gb: `OTP` : Open Telecom Platform
 * :gb: `OTP` : One Time Password
