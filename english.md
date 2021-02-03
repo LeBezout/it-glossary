@@ -337,6 +337,7 @@
 * :gb: `SCCM` : System Center Configuration Manager
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SDN` : Software-Defined Network
+* :gb: `SDLC` : Software Development Lifecycle
 * :gb: `SDP` : Software Developer Platform
 * :gb: `SDP` : Software Delivery Platform
 * :gb: `SDP` : Software Distribution Platform
