@@ -61,6 +61,10 @@
 * :gb: `CAS` : Conditional Access System
 * :gb: `CaaS` : Containers as a Service
 * :gb: `CDC` : Change Data Capture
+* :gb: `CDD` : Component Driven Development
+* :gb: `CDD` : Community Driven Development
+* :gb: `CDD` : Contract Driven Development
+* :gb: `CDD` : Component Design Document
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
 * :gb: `CFP` : Call For Papers
