@@ -387,6 +387,7 @@
 
 ## U
 
+* :gb: `UAT` : User Acceptance Testing
 * :gb: `UCS` : Universal Character Set
 * :gb: `UDDI` : Universal Description Discovery and Integration
 * :gb: `UDP` : User Datagram Protocol
