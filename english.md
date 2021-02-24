@@ -189,9 +189,10 @@
 
 * :gb: `JIT` : Just In Time
 * :gb: `JSON` : JavaScript Object Notation
-* :gb: `JWT` : JSON Web Token
 * :gb: `JWS`: JSON Web Signatures
-* :gb: Java Eco-système :
+* :gb: `JWS`: JBoss Web Server
+* :gb: `JWT` : JSON Web Token
+* :gb: Java Ecosystem :
   * `JDK` : Java Development Kit
   * `JRE` : Java Runtime Environment
   * `JNLP` : Java Network Launch Protocol
