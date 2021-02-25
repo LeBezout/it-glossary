@@ -275,6 +275,7 @@
 * :gb: `OPEX` : OPerational EXpenditure
 * :gb: `ORM` : Object-Relational Mapping
 * :gb: `OS` : Operating System
+* :gb: `OSGi` : Open Services Gateway initiative
 * :gb: `OSPF` : Open Shortest Path First
 * :gb: `OSS` : Open-Source Software
 * :gb: `OTP` : Open Telecom Platform
@@ -293,6 +294,7 @@
 * :gb: `PDF` : Portable Document Format
 * :gb: `PDM` : Persistent Data Masking
 * :gb: `PDM` : Product Data Management
+* :gb: `PEP` : Python Enhancement Proposal
 * :gb: `PKCE` : Proof Key for Code Exchange
 * :gb: `PKI` : Public Key Infrastructure
 * :gb: `PLM` : Product Life Cycle Management
@@ -426,6 +428,7 @@
 * :gb: `WS-I` : Web Services Interoperability
 * :gb: `WS-S` : Web Services Security
 * :gb: `WSDL` : Web Services Description Language
+* :gb: `WSGI` : Web Server Gateway Interface 
 * :gb: `WSL` : Windows Subsystem for Linux
 * :gb: `WSS` : Web Services Security
 * :gb: `WSSE` : Web Services Security
