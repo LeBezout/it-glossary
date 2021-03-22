@@ -65,6 +65,7 @@
 * :gb: `CDD` : Community Driven Development
 * :gb: `CDD` : Contract Driven Development
 * :gb: `CDD` : Component Design Document
+* :gb: `CDI` : Contexts & Dependency Injection
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
 * :gb: `CFP` : Call For Papers
@@ -88,6 +89,7 @@
 
 ## D
 
+* :gb: `DAL` : Data Access Layer
 * :gb: `DAO` : Data Access Object
 * :gb: `DAS` : Direct Attached Storage
 * :gb: `DB` : Database
