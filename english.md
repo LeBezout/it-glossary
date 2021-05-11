@@ -33,8 +33,10 @@
 * :gb: `APT` : Advanced Persistent Threat
 * :gb: `APIM` : API Management
 * :gb: `APM` : Application Performance Management
+* :gb: `ARP` : Address Resolution Protocol
 * :gb: `ASF` : Apache Software Foundation
 * :gb: `ATDD` : Acceptance Test-Driven Development
+* :gb: `ATM` : Asynchronous Transfer Mode
 * :gb: `AWS` : Amazon Web Services
 * :gb: `AWT` : Abstract Windows Toolkit
 
@@ -59,6 +61,7 @@
 * :gb: `CAS` : Client Access Server
 * :gb: `CAS` : Code Access Security
 * :gb: `CAS` : Conditional Access System
+* :gb: `CAN` : Controller Area Network
 * :gb: `CaaS` : Containers as a Service
 * :gb: `CDC` : Change Data Capture
 * :gb: `CDD` : Component Driven Development
@@ -278,6 +281,7 @@
 * :gb: `ORM` : Object-Relational Mapping
 * :gb: `OS` : Operating System
 * :gb: `OSGi` : Open Services Gateway initiative
+* :gb: `OSI` : Open Systems Interconnection
 * :gb: `OSPF` : Open Shortest Path First
 * :gb: `OSS` : Open-Source Software
 * :gb: `OTP` : Open Telecom Platform
@@ -411,6 +415,7 @@
 * :gb: `VDI` : Virtual Desktop Infrastructure
 * :gb: `VDI` : VirtualBox Disk Image
 * :gb: `VHD` : Virtual Hard Drive
+* :gb: `VLAN` : Virtual Local Area Network
 * :gb: `VMDK` : Virtual Machine Disk
 * :gb: `VM` : Virtual Machine
 * :gb: `VML` : Vector Markup Language
