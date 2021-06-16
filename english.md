@@ -79,6 +79,7 @@
 * :gb: `CLI` : Command Line Interface
 * :gb: `CLI` : Command-Line Interpreter
 * :gb: `CMMN` : Case Management Model and Notation
+* :gb: `CPU` : Central Processing Unit
 * :gb: `CQRS` : Command Query Responsability Separation
 * :gb: `CRC` : Cyclic Redundancy Check
 * :fr: `CRC` : Contrôle de Redondance Cyclique
@@ -159,6 +160,7 @@
 * :gb: `GIMP` : GNU Image Manipulation Program
 * :gb: `GMT` : Greenwich Mean Time
 * :gb: `GNU` : GNU's Not UNIX
+* :gb: `GPU` : Graphics Processing Unit
 * :gb: `GTK` : GIMP ToolKit
 * :gb: `GUI` : Graphical User Interface
 
