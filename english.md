@@ -241,6 +241,7 @@
 ## L
 
 * :gb: `LAN` : Local Area Network
+* :gb: `LAPS` : Local Administrator Password Solution
 * :gb: `LDAP` : Lightweight Directory Access Protocol
 * :gb: `LDIF` : LDAP Data Interchange File
 * :gb: `LIFO` : Last In First Out
