@@ -233,6 +233,7 @@
   * `JPDA` : Java Platform Debugger Architecture
   * `JPMS` : Java Platform Module System
   * `JUG` : Java User Group
+  * `JEP`: JDK Enhancement Proposal
 
 ## K
 
