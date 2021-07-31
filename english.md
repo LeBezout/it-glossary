@@ -413,6 +413,7 @@
 * :gb: `URL` : Uniform Resource Locator
 * :gb: `UTF-8` : UCS Transformation Format, 8-bit form
 * :gb: `UTC` : Coordinated Universal Time / Universel Temps Coordonné
+* :gb: `UX` : User Experience 
 
 ## V
 
