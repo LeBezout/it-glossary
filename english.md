@@ -268,8 +268,8 @@
 * :gb: `NAT` : Network Address Translation
 * :gb: `NDC` : Nested Diagnostic Context(s)
 * :gb: `NFC` : Near Field Communication
-* :gb: `NFTC` : No-Free Terms and Conditions
 * :gb: `NFS` : Network File System
+* :gb: `NFTC` : No-Free Terms and Conditions
 * :gb: `NPM` : Node Package Manager
 * :gb: `NTFS` : New Technology File System
 * :gb: `NTLM` : NT Lan Manager
