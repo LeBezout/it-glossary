@@ -13,6 +13,7 @@
 
 ## C
 
+* :fr: `CDN` : Centre De Numérisation
 * :fr: `CNIL` : Commission Nationale sur l'Informatique et les Libertés
 * :fr: `CRC` : Contrôle de Redondance Cyclique
 
@@ -27,6 +28,8 @@
 ## F
 
 ## G
+
+* :fr: `GPEC` : Gestion Prévisionnelle des Emplois et des Compétences
 
 ## H
 
