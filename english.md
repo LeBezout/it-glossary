@@ -238,6 +238,8 @@
 ## K
 
 * :gb: `KISS` : Keep It Simple, Stupid
+* :gb: `KVM` : Kernel-based Virtual Machine
+* :gb: `KVM` : Keyboard, Video, Mouse (switch)
 
 ## L
 
