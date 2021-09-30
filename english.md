@@ -76,6 +76,7 @@
 * :gb: `CI/CD` : Continuous Integration / Continuous Deployment
 * :gb: `CICS` : Customer Information Control System
 * :gb: `CIFS` : Common Internet File System
+* :gb: `CISSP` : Certified Information Systems Security Professional
 * :gb: `CLI` : Command Line Interface
 * :gb: `CLI` : Command-Line Interpreter
 * :gb: `CMMN` : Case Management Model and Notation
