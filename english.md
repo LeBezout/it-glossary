@@ -159,6 +159,7 @@
 ## G
 
 * :gb: `GDK` : GIMP Drawing Kit
+* :gb: `GDPR` : General Data Protection Regulation
 * :gb: `GIMP` : GNU Image Manipulation Program
 * :gb: `GMT` : Greenwich Mean Time
 * :gb: `GNU` : GNU's Not UNIX
