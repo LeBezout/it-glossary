@@ -83,6 +83,8 @@
 
 ## U
 
+* :fr: `UDD` : Usine de Développement Logiciel
+
 ## V
 
 ## W
