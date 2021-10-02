@@ -121,6 +121,7 @@
 * :gb: `DRP` : Disaster Recory Plan
 * :gb: `DRY` : Don't Repeat Yourself
 * :gb: `DSA` : Digital Signature Algorithm
+* :gb: `DSC` : Desired State Configuration
 * :gb: `DSL` : Domain Specific Language
 * :gb: `DST` : Daylight Saving Time
 * :gb: `DTO` : Data Transfert Object
