@@ -354,12 +354,15 @@
 * :gb: `SCA` : Static Code Analysis
 * :gb: `SCCM` : System Center Configuration Manager
 * :gb: `SCP` : Secure Copy Protocol
-* :gb: `SDN` : Software-Defined Network
+* :gb: `SDC` : Software-Defined Compute
+* :gb: `SDDC` : Software-Defined Data Center
+* :gb: `SDI` : Software-Defined Infrastructure
 * :gb: `SDLC` : Software Development Lifecycle
+* :gb: `SDN` : Software-Defined Network
 * :gb: `SDP` : Software Developer Platform
 * :gb: `SDP` : Software Delivery Platform
 * :gb: `SDP` : Software Distribution Platform
-* :gb: `SDP` : Service Delivery Platform
+* :gb: `SDS` : Software-Defined Storage
 * :gb: `SEI` : Service Endpoint Interface
 * :gb: `SEO` : Search Engine Optimization
 * :gb: `SHA` : Secure Hash Algorithm
