@@ -29,6 +29,7 @@
 
 ## G
 
+* :fr: `GDR` : Gestion des Données de Référence
 * :fr: `GPEC` : Gestion Prévisionnelle des Emplois et des Compétences
 
 ## H
