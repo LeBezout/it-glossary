@@ -260,6 +260,7 @@
 * :gb: `MAC` : Medium Access Control
 * :gb: `MD5` : Message Digest 5
 * :gb: `MDC` : Mapped Diagnostic Context(s)
+* :gb: `MDM` : Master Data Management
 * :gb: `MFL` : Message Format Language
 * :gb: `MO` : Middle-Office
 * :gb: `MQTT` : Message Queuing Telemetry Transport
