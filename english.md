@@ -28,6 +28,7 @@
 * :gb: `AMQP` : Advanced Message Queuing Protocol
 * :gb: `AMR` : Authentication Methods References
 * :gb: `ANSI` : American National Standards Institute
+* :gb: `AOT` : Ahead Of Time
 * :gb: `API` : Application Provider Interface
 * :gb: `APT` : Advanced Packaging Tool
 * :gb: `APT` : Advanced Persistent Threat
