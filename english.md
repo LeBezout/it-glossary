@@ -88,7 +88,7 @@
 * :gb: `CRT` : Cathode Ray Tube
 * :gb: `CRUD` : Create Read Update Delete
 * :gb: `CSP` : Cryptographic Service Provider
-* :gb: `CSRF` : Cross-Site Request Forgery (voir XSRF)
+* :gb: `CSRF` : Cross-Site Request Forgery (= XSRF)
 * :gb: `CSS` : Cascading Style Sheets
 * :gb: `CSV` : Comma-Separated Values
 * :gb: `CUT` : Coordinated Universal Time
@@ -105,7 +105,7 @@
 * :gb: `DCL` : Data Control Language
 * :gb: `DCRM` : Dynamic Client Registration Management
 * :gb: `DDD` : Domain Driven Design
-* :gb: `DDL` : Data Definition Language (ou Data Description Language)
+* :gb: `DDL` : Data Definition Language / Data Description Language
 * :gb: `DES` : Data Encryption Standard
 * :gb: `DHCP` : Dynamic Host Configuration Protocol
 * :gb: `DI` : Dependency Injection
@@ -171,6 +171,7 @@
 ## H
 
 * :gb: `HDFS` : Hadoop Distributed File System
+* :gb: `HDMI` : High Definition Multimedia Interface
 * :gb: `HTTP` : Hyper Text Transfert Protocol
 * :gb: `HATEOAS` : Hypermedia As The Engine Of Application State
 
@@ -317,7 +318,7 @@
 * :gb: `PKCE` : Proof Key for Code Exchange
 * :gb: `PKI` : Public Key Infrastructure
 * :gb: `PLM` : Product Life Cycle Management
-* :gb: `PMD` : Programming Mistake Detector (unofficial)
+* :gb: `PMD` : Programming Mistake Detector (_unofficial_)
 * :gb: `POC` : Proof Of Concept
 * :gb: `POJO` : Plain Old Java Object
 * :gb: `POM` : Project Object Model
@@ -343,7 +344,7 @@
 * :gb: `RPC` : Remote Procedure Call
 * :gb: `RPO` : Recovery Point Objective
 * :gb: `RPP` : Rational® Programming Patterns
-* :gb: `RSA` : Rivest-Shamir-Adleman (algorithme de chiffrement de)
+* :gb: `RSA` : Rivest-Shamir-Adleman
 * :gb: `RTC` : Rational® Team Concert
 * :gb: `RTO` : Recovery Time Objective
 * :gb: `RVM` : Ruby Version Manager
@@ -423,7 +424,7 @@
 * :gb: `URN` : Uniform Ressource Name
 * :gb: `URL` : Uniform Resource Locator
 * :gb: `UTF-8` : UCS Transformation Format, 8-bit form
-* :gb: `UTC` : Coordinated Universal Time / Universel Temps Coordonné
+* :gb: `UTC` : Coordinated Universal Time
 * :gb: `UX` : User Experience 
 
 ## V
@@ -466,7 +467,7 @@
 * :gb: `XSL` : eXtensible Stylesheet Language
 * :gb: `XSLT` : eXtensible Stylesheet Language Transformation
 * :gb: `XSS` : Cross (X) Site Scripting
-* :gb: `XSRF` : Cross (X) Site Request Forgery (voir CSRF)
+* :gb: `XSRF` : Cross (X) Site Request Forgery (= CSRF)
 * :gb: `XXE` : XML eXternal Entity
 
 ## Y
