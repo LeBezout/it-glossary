@@ -156,6 +156,7 @@
 * :gb: `FIFO` : Fist In First Out
 * :gb: `FO` : Front-Office
 * :gb: `FTP` : File Transfer Protocol
+* :gb: `FTS` : Full Text Search
 
 ## G
 
