@@ -111,6 +111,8 @@
 * :gb: `DHCP` : Dynamic Host Configuration Protocol
 * :gb: `DI` : Dependency Injection
 * :gb: `DIP` : Dependency Inversion Principle
+* :gb: `DKIM` : DomainKeys Identified Mail
+* :gb: `DMARC` : Domain-based Message Authentication, Reporting and Conformance
 * :gb: `DML` : Data Manipulation Language
 * :gb: `DNS` : Domain Name System
 * :gb: `DOD` : Definition Of Done
@@ -389,6 +391,7 @@
 * :gb: `SOAP` : Simple Object Access Protocol
 * :gb: `SOC` : Separation Of Concerns
 * :gb: `SPA` : Single-Page Application
+* :gb: `SPF` : Sender Policy Framework
 * :gb: `SPI` : Service Provider Interface
 * :gb: `SPOF` : Single Point Of Failure
 * :gb: `SQL` : Structured Query Language
