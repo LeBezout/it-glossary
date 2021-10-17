@@ -207,39 +207,41 @@
 * :gb: `JWS`: JBoss Web Server
 * :gb: `JWT` : JSON Web Token
 * :gb: Java Ecosystem :
-  * `JDK` : Java Development Kit
-  * `JRE` : Java Runtime Environment
-  * `JNLP` : Java Network Launch Protocol
-  * `JWS` : Java Web Start
   * `JAAS` : Java Authentication and Authorization Service
-  * `JCA` : Java Cryptography Architecture
-  * `JCE` : Java Cryptography Extension
-  * `JSSE` : Java Secure Sockets Extension
-  * `JNDI` : Java Naming and Directory Interface
-  * `JNI` : Java Native Interface
-  * `JNA` : Java Native Access
-  * `JDO` : Java Data Objects
-  * `JAI` : Java Advanced Imaging
-  * `JDBC` : Java DataBase Connectivity
-  * `JPA` : Java Persistence API
-  * `JTA` : Java Transaction API
   * `JAF` : JavaBeans Activation Framework
+  * `JAI` : Java Advanced Imaging
   * `JAX-RPC` : Java API for XML-Based RPC
   * `JAXP` : Java API for XML Processing
   * `JAXB` : Java Architecture for XML Binding
   * `JAX-WS` : Java API for XML Web Services
   * `JAX-RS` : Java API for RESTful Web Services
-  * `JSF` : Java Server Faces
-  * `JSP` : Java Server Pages
-  * `JSTL` : Java server page Standard Tag Library
-  * `JMX` : Java Management Extensions
-  * `JMS` : Java Message Service
-  * `JMF` : Java Media Framework
-  * `JSR` : Java Specification Request
+  * `JCA` : Java Cryptography Architecture
+  * `JCE` : Java Cryptography Extension
+  * `JDBC` : Java DataBase Connectivity
+  * `JDK` : Java Development Kit
+  * `JDO` : Java Data Objects
+  * `JEP`: JDK Enhancement Proposal
+  * `JFR` : Java/JDK Flight Recorder
+  * `JNA` : Java Native Access
+  * `JNI` : Java Native Interface
+  * `JNLP` : Java Network Launch Protocol
+  * `JNDI` : Java Naming and Directory Interface
+  * `JPA` : Java Persistence API
   * `JPDA` : Java Platform Debugger Architecture
   * `JPMS` : Java Platform Module System
+  * `JMC` : Java/JDK Mission Control
+  * `JMF` : Java Media Framework
+  * `JMS` : Java Message Service
+  * `JMX` : Java Management Extensions
+  * `JRE` : Java Runtime Environment
+  * `JSF` : Java Server Faces
+  * `JSP` : Java Server Pages
+  * `JSR` : Java Specification Request
+  * `JSTL` : Java server page Standard Tag Library
+  * `JSSE` : Java Secure Sockets Extension
+  * `JTA` : Java Transaction API
   * `JUG` : Java User Group
-  * `JEP`: JDK Enhancement Proposal
+  * `JWS` : Java Web Start
 
 ## K
 
