@@ -85,7 +85,6 @@
 * :gb: `CPU` : Central Processing Unit
 * :gb: `CQRS` : Command Query Responsability Separation
 * :gb: `CRC` : Cyclic Redundancy Check
-* :fr: `CRC` : Contrôle de Redondance Cyclique
 * :gb: `CRT` : Cathode Ray Tube
 * :gb: `CRUD` : Create Read Update Delete
 * :gb: `CSP` : Cryptographic Service Provider
