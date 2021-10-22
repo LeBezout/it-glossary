@@ -285,6 +285,7 @@
 * :gb: `NFC` : Near Field Communication
 * :gb: `NFS` : Network File System
 * :gb: `NFTC` : No-Free Terms and Conditions
+* :gb: `NLP` : Natural Language Processing
 * :gb: `NPM` : Node Package Manager
 * :gb: `NTFS` : New Technology File System
 * :gb: `NTLM` : NT Lan Manager
