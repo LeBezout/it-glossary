@@ -207,6 +207,8 @@
 * :gb: `JSON` : JavaScript Object Notation
 * :gb: `JWS`: JSON Web Signatures
 * :gb: `JWS`: JBoss Web Server
+* :gb: `JWK`: JSON Web Key
+* :gb: `JWKS`: JSON Web Key Sets
 * :gb: `JWT` : JSON Web Token
 * :gb: Java Ecosystem :
   * `JAAS` : Java Authentication and Authorization Service
