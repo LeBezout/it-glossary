@@ -81,6 +81,7 @@
 * :gb: `CISSP` : Certified Information Systems Security Professional
 * :gb: `CLI` : Command Line Interface
 * :gb: `CLI` : Command-Line Interpreter
+* :gb: `CLS` : Cumulative Layout Shift
 * :gb: `CMMN` : Case Management Model and Notation
 * :gb: `CPU` : Central Processing Unit
 * :gb: `CQRS` : Command Query Responsability Separation
@@ -154,7 +155,9 @@
 
 * :gb: `FaaS` : Function as a Service
 * :gb: `FAT` : File Allocation Table
+* :gb: `FCP` : First Contentul Paint
 * :gb: `FFDC` : First Failure Data Capture (IBM)
+* :gb: `FID` : First Input Delay
 * :gb: `FIFO` : Fist In First Out
 * :gb: `FO` : Front-Office
 * :gb: `FTP` : File Transfer Protocol
@@ -257,6 +260,7 @@
 
 * :gb: `LAN` : Local Area Network
 * :gb: `LAPS` : Local Administrator Password Solution
+* :gb: `LCP` : Largest Contentul Paint
 * :gb: `LDAP` : Lightweight Directory Access Protocol
 * :gb: `LDIF` : LDAP Data Interchange File
 * :gb: `LIFO` : Last In First Out
@@ -419,6 +423,7 @@
 * :gb: `TFS` : Team Foundation Server
 * :gb: `TL;DR` : Too Long; Don't Read
 * :gb: `TLS` : Transport Layer Security
+* :gb: `TTFB` : Time To first Byte
 * :gb: `TTL` : Time To Live
 
 ## U
