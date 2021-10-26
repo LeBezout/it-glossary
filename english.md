@@ -336,6 +336,7 @@
 * :gb: `POM` : Project Object Model
 * :gb: `POP/POP3` : Post Office Protocol
 * :gb: `POSIX` : Portable Operating System Interface
+* :gb: `PRNG` : Pseudo Random Number Generator
 * :gb: `PWA` : Progressive Web Apps
 
 ## Q
