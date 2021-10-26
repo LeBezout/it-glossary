@@ -351,6 +351,7 @@
 * :gb: `RFC` : Requests For Comments
 * :gb: `RHEL` : Red Hat Enterprise Linux
 * :gb: `RMI` : Remote Method Invocation
+* :gb: `RNG` : Random Number Generator
 * :gb: `ROA` : Resource Oriented Architecture
 * :gb: `ROTI` : Return on Time Investment
 * :gb: `RPA` : Robotic Process Automation
