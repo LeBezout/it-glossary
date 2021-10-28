@@ -184,6 +184,7 @@
 
 ## I
 
+* :gb: `IAM` : Identity and Access Management
 * :gb: `IANA` : Internet Assigned Numbers Authority
 * :gb: `IAT` : International Atomic Time
 * :gb: `IaaS` : Infrastructure as a Service
@@ -321,6 +322,7 @@
 
 * :gb: `PaaS` : Platform as a Service
 * :gb: `PAC` : Proxy Auto Configuration
+* :gb: `PAM` : Privileged Access Management
 * :gb: `PAT` : Port Address Translation
 * :gb: `PBE` : Password-Based Encryption
 * :gb: `PCBC` : Propagating Cipher Block Chaining
