@@ -160,6 +160,7 @@
 * :gb: `FID` : First Input Delay
 * :gb: `FIFO` : Fist In First Out
 * :gb: `FO` : Front-Office
+* :gb: `FPU` : Floating Point Unit
 * :gb: `FTP` : File Transfer Protocol
 * :gb: `FTS` : Full Text Search
 
@@ -171,6 +172,7 @@
 * :gb: `GMT` : Greenwich Mean Time
 * :gb: `GNU` : GNU's Not UNIX
 * :gb: `GPU` : Graphics Processing Unit
+* :gb: `GPGPU` : General-purpose Processing on Graphics Processing Unit
 * :gb: `GTK` : GIMP ToolKit
 * :gb: `GUI` : Graphical User Interface
 
@@ -389,6 +391,7 @@
 * :gb: `SEO` : Search Engine Optimization
 * :gb: `SHA` : Secure Hash Algorithm
 * :gb: `SIEM` : Security Information and Event Management
+* :gb: `SIMD` : Single Instruction, Multiple Data
 * :gb: `SLA` : Service Level Agreement
 * :gb: `SLF4J` : Simple Logging Factory For Java
 * :gb: `SLO` : Service Level Objectives
