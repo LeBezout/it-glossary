@@ -233,6 +233,7 @@
   * `JDO` : Java Data Objects
   * `JEP`: JDK Enhancement Proposal
   * `JFR` : Java/JDK Flight Recorder
+  * `JLS` : Java Language Specification
   * `JNA` : Java Native Access
   * `JNI` : Java Native Interface
   * `JNLP` : Java Network Launch Protocol
