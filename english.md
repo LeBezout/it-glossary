@@ -179,6 +179,7 @@
 ## H
 
 * :gb: `HATEOAS` : Hypermedia As The Engine Of Application State
+* :gb: `HCL` : Hashicorp Configuration Language
 * :gb: `HDFS` : Hadoop Distributed File System
 * :gb: `HDMI` : High Definition Multimedia Interface
 * :gb: `HTTP` : Hyper Text Transfert Protocol
