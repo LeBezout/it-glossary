@@ -107,6 +107,7 @@
 * :gb: `DCRM` : Dynamic Client Registration Management
 * :gb: `DDD` : Domain Driven Design
 * :gb: `DDL` : Data Definition Language / Data Description Language
+* :gb: `DDOS` : Distributed Deni Of Service
 * :gb: `DES` : Data Encryption Standard
 * :gb: `DHCP` : Dynamic Host Configuration Protocol
 * :gb: `DI` : Dependency Injection
@@ -114,14 +115,14 @@
 * :gb: `DKIM` : DomainKeys Identified Mail
 * :gb: `DMARC` : Domain-based Message Authentication, Reporting and Conformance
 * :gb: `DML` : Data Manipulation Language
+* :gb: `DMN` : Decision Model and Notation
 * :gb: `DNS` : Domain Name System
 * :gb: `DOD` : Definition Of Done
 * :gb: `DOM` : Document Object Model
 * :gb: `DOR` : Definition Of Ready
 * :gb: `DOS` : Deni Of Service
 * :gb: `DOS` : (Microsoft) Disk Operating System
-* :gb: `DDOS` : Distributed Deni Of Service
-* :gb: `DMN` : Decision Model and Notation
+* :gb: `DPI` : Dot Per Inch
 * :gb: `DRP` : Disaster Recory Plan
 * :gb: `DRY` : Don't Repeat Yourself
 * :gb: `DSA` : Digital Signature Algorithm
@@ -160,6 +161,7 @@
 * :gb: `FID` : First Input Delay
 * :gb: `FIFO` : Fist In First Out
 * :gb: `FO` : Front-Office
+* :gb: `FPS` : Frame Per Seconds
 * :gb: `FPU` : Floating Point Unit
 * :gb: `FTP` : File Transfer Protocol
 * :gb: `FTS` : Full Text Search
@@ -195,6 +197,7 @@
 * :gb: `ICR` : Intelligent Character Recognition
 * :gb: `IDE` : Integrated Development Environment
 * :gb: `IDZ` : IBM® Developer for z Systems
+* :gb: `IEC` : International Electrotechnichal Commission
 * :gb: `IEEE` : Institute of Electrical and Electronics Engineers
 * :gb: `IETF` : Internet Engineering Task Force
 * :gb: `IHS` : IBM® HTTP Server
@@ -343,6 +346,8 @@
 * :gb: `POM` : Project Object Model
 * :gb: `POP/POP3` : Post Office Protocol
 * :gb: `POSIX` : Portable Operating System Interface
+* :gb: `PPI` : Pixels Per Inch
+* :gb: `PPM` : Pages Per Minute
 * :gb: `PRNG` : Pseudo Random Number Generator
 * :gb: `PWA` : Progressive Web Apps
 
@@ -457,6 +462,7 @@
 * :gb: `VDI` : Virtual Device Interface
 * :gb: `VDI` : Virtual Desktop Infrastructure
 * :gb: `VDI` : VirtualBox Disk Image
+* :gb: `VGA` : Video Graphics Array
 * :gb: `VHD` : Virtual Hard Drive
 * :gb: `VLAN` : Virtual Local Area Network
 * :gb: `VMDK` : Virtual Machine Disk
