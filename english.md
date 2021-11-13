@@ -65,6 +65,7 @@
 * :gb: `CAS` : Conditional Access System
 * :gb: `CAN` : Controller Area Network
 * :gb: `CaaS` : Containers as a Service
+* :gb: `CBC` : Cipher Block Chaining
 * :gb: `CDC` : Change Data Capture
 * :gb: `CDD` : Component Driven Development
 * :gb: `CDD` : Community Driven Development
@@ -211,6 +212,7 @@
 * :gb: `ITSM` : IT Service Management
 * :gb: `ISE` : Integrated Scripting Environment (_Powershell_)
 * :gb: `ISP` : Interface Segregation Principle
+* :gb: `IV`: Initialization Vector
 
 ## J
 
@@ -298,6 +300,7 @@
 * :gb: `NFC` : Near Field Communication
 * :gb: `NFS` : Network File System
 * :gb: `NFTC` : No-Free Terms and Conditions
+* :gb: `NIST` : National Institute of Standards and Technology
 * :gb: `NLP` : Natural Language Processing
 * :gb: `NPM` : Node Package Manager
 * :gb: `NTFS` : New Technology File System
@@ -476,7 +479,8 @@
 ## W
 
 * :gb: `W3C` : World Wide Web Consortium
-* :gb: `WAF` : Wepp Application Firewall
+* :gb: `WAF` : Web Application Firewall
+* :gb: `WAI` : Web Accessibility Initiative
 * :gb: `WAS` : WebSphere Application Server
 * :gb: `WASI` : WebAssembly System Interface
 * :gb: `WADL` : Web Application Description Language
