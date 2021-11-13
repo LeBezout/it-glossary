@@ -309,6 +309,7 @@
 
 * :gb: `OASIS` : Organization for the Advancement of Structured Information Standards
 * :gb: `OCP` : Open/Closed Principle
+* :gb: `OCI` : Open Container Initiative
 * :gb: `OCR` : Optical Character Recognition
 * :gb: `OIDC` : OpenID Connect
 * :gb: `OKR` : Objectives and Key Results
