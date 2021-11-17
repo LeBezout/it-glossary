@@ -311,10 +311,12 @@
 ## O
 
 * :gb: `OASIS` : Organization for the Advancement of Structured Information Standards
-* :gb: `OCP` : Open/Closed Principle
 * :gb: `OCI` : Open Container Initiative
+* :gb: `OCP` : Open/Closed Principle
+* :gb: `OCP` : (RedHat) Openshit Container Platform
 * :gb: `OCR` : Optical Character Recognition
 * :gb: `OIDC` : OpenID Connect
+* :gb: `OKD` : Open Kubernetes Distribution
 * :gb: `OKR` : Objectives and Key Results
 * :gb: `OPEX` : OPerational EXpenditure
 * :gb: `ORM` : Object-Relational Mapping
