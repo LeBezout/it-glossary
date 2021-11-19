@@ -264,6 +264,9 @@
 ## K
 
 * :gb: `KISS` : Keep It Simple, Stupid
+* :gb: `KPI` : Key Performance Indicator
+* :gb: `KRI` : Key Risk Indicator
+* :gb: `KVI` : Key Value Indicator
 * :gb: `KVM` : Kernel-based Virtual Machine
 * :gb: `KVM` : Keyboard, Video, Mouse (switch)
 
