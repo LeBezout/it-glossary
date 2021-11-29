@@ -320,6 +320,7 @@
 * :gb: `OCR` : Optical Character Recognition
 * :gb: `OIDC` : OpenID Connect
 * :gb: `OKD` : Open Kubernetes Distribution
+* :gb: `OKFN` : Open Knowledge Foundation
 * :gb: `OKR` : Objectives and Key Results
 * :gb: `OPEX` : OPerational EXpenditure
 * :gb: `ORM` : Object-Relational Mapping
