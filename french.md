@@ -38,6 +38,7 @@
 
 * :fr: `IA` : Intelligence Artificielle
 * :fr: `IHM` : Interfaçe Homme Machine
+* :fr: `INRS` : Institut National de Recherche et de Sécurité
 
 ## J
 
