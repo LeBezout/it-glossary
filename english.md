@@ -176,6 +176,7 @@
 * :gb: `GNU` : GNU's Not UNIX
 * :gb: `GPU` : Graphics Processing Unit
 * :gb: `GPGPU` : General-purpose Processing on Graphics Processing Unit
+* :gb: `GPX` : GPS Exchange Format
 * :gb: `GTK` : GIMP ToolKit
 * :gb: `GUI` : Graphical User Interface
 
