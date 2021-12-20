@@ -94,6 +94,8 @@
 * :gb: `CSS` : Cascading Style Sheets
 * :gb: `CSV` : Comma-Separated Values
 * :gb: `CUT` : Coordinated Universal Time
+* :gb: `CVE` : Common Vulnerabilities and Exposures
+* :gb: `CVSS` : Common Vulnerability Scoring System
 
 ## D
 
@@ -310,6 +312,7 @@
 * :gb: `NTFS` : New Technology File System
 * :gb: `NTLM` : NT Lan Manager
 * :gb: `NTP` : Network Time Protocol
+* :gb: `NVD` : (US) National Vulnerability Database
 * :gb: `NVM` : Node Version Manager
 
 ## O
@@ -369,6 +372,7 @@
 * :gb: `RACI` : Responsible, Accountable, Consulted, Informed
 * :gb: `RAD` : Rapid Application Development
 * :gb: `RAID` : Redundant Array of Independent Disks
+* :gb: `RCE` : Remote Code Execution
 * :gb: `REPL` : Read-Evaluate-Print-Loop
 * :gb: `REST` : REpresentational State Transfer
 * :gb: `RFC` : Requests For Comments
@@ -394,6 +398,7 @@
 * :gb: `SAN` : Storage Area Network
 * :gb: `SCA` : Software Composition Analysis
 * :gb: `SCA` : Static Code Analysis
+* :gb: `SCAP` : Security Content Automation Protocol
 * :gb: `SCCM` : System Center Configuration Manager
 * :gb: `SCP` : Secure Copy Protocol
 * :gb: `SDC` : Software-Defined Compute
