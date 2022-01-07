@@ -177,6 +177,7 @@
 * :gb: `GMT` : Greenwich Mean Time
 * :gb: `GNU` : GNU's Not UNIX
 * :gb: `GPU` : Graphics Processing Unit
+* :gb: `GPG` : GNU Privacy Guard
 * :gb: `GPGPU` : General-purpose Processing on Graphics Processing Unit
 * :gb: `GPX` : GPS Exchange Format
 * :gb: `GTK` : GIMP ToolKit
