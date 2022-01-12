@@ -281,6 +281,8 @@
 * :gb: `LCP` : Largest Contentul Paint
 * :gb: `LDAP` : Lightweight Directory Access Protocol
 * :gb: `LDIF` : LDAP Data Interchange File
+* :gb: `LFRU` : Least Frequent Recently Used
+* :gb: `LFU` : Least Frequently Used
 * :gb: `LIFO` : Last In First Out
 * :gb: `LOV` : List Of Value
 * :gb: `LSP` : Liskov Substitution Principle
@@ -296,6 +298,7 @@
 * :gb: `MO` : Middle-Office
 * :gb: `MQTT` : Message Queuing Telemetry Transport
 * :gb: `MVP` : Minimum Viable Product
+* :gb: `MRU` : Most Recently Used
 * :gb: `MTU` : Maximum Transmission Unit
 
 ## N
