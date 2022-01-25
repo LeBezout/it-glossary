@@ -16,6 +16,7 @@
 * :gb: `ADRMS` : Active Directory Rights Management Services
 * :gb: `ADLDS` : Active Directory Lightweight Directory Services
 * :gb: `ADSL` : Asymmetric Digital Subscriber Line
+* :gb: `ADF` : Automated Document Factory
 * :gb: `AES` : Advanced Encryption Standard
 * :gb: `AFP` : Apple Filing Protocol
 * :gb: `ADFS` : Active Directory Federation Services
@@ -67,6 +68,7 @@
 * :gb: `CAN` : Controller Area Network
 * :gb: `CaaS` : Containers as a Service
 * :gb: `CBC` : Cipher Block Chaining
+* :gb: `CCM` : Customer Communications Management
 * :gb: `CDC` : Change Data Capture
 * :gb: `CDD` : Component Driven Development
 * :gb: `CDD` : Community Driven Development
