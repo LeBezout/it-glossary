@@ -37,6 +37,7 @@
 * :gb: `APM` : Application Performance Management
 * :gb: `ARP` : Address Resolution Protocol
 * :gb: `ASF` : Apache Software Foundation
+* :gb: `AST` : Abstract Syntax Tree
 * :gb: `ATDD` : Acceptance Test-Driven Development
 * :gb: `ATM` : Asynchronous Transfer Mode
 * :gb: `AWS` : Amazon Web Services
