@@ -79,6 +79,7 @@
 * :gb: `CentOS` : Community ENnterprise Operating System
 * :gb: `CFP` : Call For Papers
 * :gb: `CFT` : Cross File Transfer
+* :gb: `CGI` : Common Gateway Interface
 * :gb: `CI/CD` : Continuous Integration / Continuous Deployment
 * :gb: `CICS` : Customer Information Control System
 * :gb: `CIFS` : Common Internet File System
