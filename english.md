@@ -459,6 +459,7 @@
 
 * :gb: `TAM` : Technical Account Manager
 * :gb: `TAR` : Tape ARchiver
+* :gb: `TCK` : Technology Compatibility Kit
 * :gb: `TCL` : Transaction Control Language
 * :gb: `TCP` : Transmission Control Protocol
 * :gb: `TDD` : Tests Driven Development
