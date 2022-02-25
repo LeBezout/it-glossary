@@ -103,6 +103,7 @@
 
 ## D
 
+* :gb: `DAD` : Disciplined Agile Delivery
 * :gb: `DAL` : Data Access Layer
 * :gb: `DAO` : Data Access Object
 * :gb: `DAS` : Direct Attached Storage
