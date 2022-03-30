@@ -12,6 +12,7 @@
 * :gb: `ADAM` : Active Directory Application Mode
 * :gb: `ADCS` : Active Directory Certificate Services
 * :gb: `ADDS` : Active Directory Domain Services
+* :gb: `ADFS` : Active Directory Federation Services
 * :gb: `ADM` : Active Data Management
 * :gb: `ADRMS` : Active Directory Rights Management Services
 * :gb: `ADLDS` : Active Directory Lightweight Directory Services
@@ -19,7 +20,7 @@
 * :gb: `ADF` : Automated Document Factory
 * :gb: `AES` : Advanced Encryption Standard
 * :gb: `AFP` : Apple Filing Protocol
-* :gb: `ADFS` : Active Directory Federation Services
+* :gb: `AGPL` : Affero General Public License
 * :gb: `AI` : Artificial Intelligence
 * :gb: `AJAX` : Asynchronous JAvaScript and XML
 * :gb: `ALM` : Application Lifecycle Management
@@ -147,6 +148,7 @@
 * :gb: `EC2` : (Amazon) Elastic Compute Cloud 
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `ECS` : Elastic Common Schema
+* :gb: `EDL` : Eclipse Distribution License
 * :gb: `EDR` : Endpoint Detection and Response
 * :gb: `EIP` : Enterprise Integration Patterns
 * :gb: `EOF` : End Of File
@@ -184,7 +186,8 @@
 * :gb: `GPU` : Graphics Processing Unit
 * :gb: `GPG` : GNU Privacy Guard
 * :gb: `GPGPU` : General-purpose Processing on Graphics Processing Unit
-* :gb: `GPX` : GPS Exchange Format
+* :gb: `GPL` : General Public License
+* :gb: `GPX` : GPS (Global Positioning System) Exchange Format
 * :gb: `GTD` : Get Things Done
 * :gb: `GTK` : GIMP ToolKit
 * :gb: `GUI` : Graphical User Interface
