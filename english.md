@@ -295,6 +295,7 @@
 * :gb: `LFU` : Least Frequently Used
 * :gb: `LIFO` : Last In First Out
 * :gb: `LOV` : List Of Value
+* :gb: `LSB` : Linux Standard Base
 * :gb: `LSP` : Liskov Substitution Principle
 * :gb: `LTS` : Long Term Support
 
