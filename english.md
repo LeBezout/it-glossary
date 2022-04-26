@@ -188,6 +188,7 @@
 * :gb: `GPGPU` : General-purpose Processing on Graphics Processing Unit
 * :gb: `GPL` : General Public License
 * :gb: `GPX` : GPS (Global Positioning System) Exchange Format
+* :gb: `GRUB` : GRand Unified Bootloader
 * :gb: `GTD` : Get Things Done
 * :gb: `GTK` : GIMP ToolKit
 * :gb: `GUI` : Graphical User Interface
