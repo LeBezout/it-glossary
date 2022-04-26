@@ -34,6 +34,8 @@
 
 ## H
 
+* :fr: `HDS` : Hébergeur de Données de Santé
+
 ## I
 
 * :fr: `IA` : Intelligence Artificielle
