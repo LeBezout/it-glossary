@@ -375,6 +375,7 @@
 * :gb: `POM` : Project Object Model
 * :gb: `POP/POP3` : Post Office Protocol
 * :gb: `POSIX` : Portable Operating System Interface
+* :gb: `PPA` : Personal Package Archives
 * :gb: `PPI` : Pixels Per Inch
 * :gb: `PPM` : Pages Per Minute
 * :gb: `PRNG` : Pseudo Random Number Generator
