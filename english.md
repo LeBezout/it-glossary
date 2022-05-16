@@ -385,6 +385,7 @@
 
 ## R
 
+* :gb: `R2DBC` : Reactive Relationnal DataBase Connectivity
 * :gb: `RACI` : Responsible, Accountable, Consulted, Informed
 * :gb: `RAD` : Rapid Application Development
 * :gb: `RAID` : Redundant Array of Independent Disks
