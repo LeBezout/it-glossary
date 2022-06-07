@@ -387,6 +387,7 @@
 
 * :gb: `R2DBC` : Reactive Relationnal DataBase Connectivity
 * :gb: `RACI` : Responsible, Accountable, Consulted, Informed
+* :gb: `RBAC` : Role-Based Access Control
 * :gb: `RAD` : Rapid Application Development
 * :gb: `RAID` : Redundant Array of Independent Disks
 * :gb: `RCE` : Remote Code Execution
