@@ -404,6 +404,8 @@
 * :gb: `RPO` : Recovery Point Objective
 * :gb: `RPP` : Rational® Programming Patterns
 * :gb: `RSA` : Rivest-Shamir-Adleman
+* :gb: `RSS` : Rich Site Summary
+* :gb: `RSS` : Resident Set Size
 * :gb: `RTC` : Rational® Team Concert
 * :gb: `RTO` : Recovery Time Objective
 * :gb: `RVM` : Ruby Version Manager
