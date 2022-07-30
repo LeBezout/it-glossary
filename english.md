@@ -76,6 +76,7 @@
 * :gb: `CDD` : Contract Driven Development
 * :gb: `CDD` : Component Design Document
 * :gb: `CDI` : Contexts & Dependency Injection
+* :gb: `CDK` : Cloud Development Kit (AWS)
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
 * :gb: `CFP` : Call For Papers
