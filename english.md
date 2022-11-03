@@ -79,6 +79,7 @@
 * :gb: `CDK` : Cloud Development Kit (AWS)
 * :gb: `CDN` : Content Delivery Network
 * :gb: `CentOS` : Community ENnterprise Operating System
+* :gb: `CFD` : Cumulative Flow Diagram
 * :gb: `CFP` : Call For Papers
 * :gb: `CFT` : Cross File Transfer
 * :gb: `CGI` : Common Gateway Interface
