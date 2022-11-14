@@ -381,6 +381,7 @@
 * :gb: `PPI` : Pixels Per Inch
 * :gb: `PPM` : Pages Per Minute
 * :gb: `PRNG` : Pseudo Random Number Generator
+* :gb: `PUE` : Power Usage Effectiveness
 * :gb: `PWA` : Progressive Web Apps
 
 ## Q
