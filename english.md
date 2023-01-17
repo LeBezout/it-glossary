@@ -127,6 +127,7 @@
 * :gb: `DMARC` : Domain-based Message Authentication, Reporting and Conformance
 * :gb: `DML` : Data Manipulation Language
 * :gb: `DMN` : Decision Model and Notation
+* :gb: `DMS` : Document Management System
 * :gb: `DNS` : Domain Name System
 * :gb: `DOD` : Definition Of Done
 * :gb: `DOM` : Document Object Model
@@ -151,6 +152,7 @@
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `ECS` : Elastic Common Schema
 * :gb: `EDL` : Eclipse Distribution License
+* :gb: `EDM` : Electronic Document Management
 * :gb: `EDR` : Endpoint Detection and Response
 * :gb: `EIP` : Enterprise Integration Patterns
 * :gb: `EOF` : End Of File
