@@ -5,6 +5,7 @@
 
 ## A
 
+* :gb: `ACID` : Atomic, Consistent, Isolated, and Durable (_transaction_)
 * :gb: `ACL` : Anti-Corruption Layer
 * :gb: `ACL` : Access Control List
 * :gb: `ACR` : Authentication Context Class Reference
@@ -298,7 +299,9 @@
 * :gb: `LFRU` : Least Frequent Recently Used
 * :gb: `LFU` : Least Frequently Used
 * :gb: `LIFO` : Last In First Out
+* :gb: `LLT` : Long Lived Transaction 
 * :gb: `LOV` : List Of Value
+* :gb: `LRA` : Long Running Actions
 * :gb: `LSB` : Linux Standard Base
 * :gb: `LSP` : Liskov Substitution Principle
 * :gb: `LTS` : Long Term Support
