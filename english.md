@@ -133,6 +133,7 @@
 * :gb: `DOD` : Definition Of Done
 * :gb: `DOM` : Document Object Model
 * :gb: `DOR` : Definition Of Ready
+* :gb: `DORA` : DevOps Research and Assessment
 * :gb: `DOS` : Deni Of Service
 * :gb: `DOS` : (Microsoft) Disk Operating System
 * :gb: `DPI` : Dot Per Inch
