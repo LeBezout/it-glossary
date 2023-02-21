@@ -153,6 +153,7 @@
 * :gb: `EC2` : (Amazon) Elastic Compute Cloud 
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `ECS` : Elastic Common Schema
+* :gb: `EDA` : Event Driven Architecture
 * :gb: `EDL` : Eclipse Distribution License
 * :gb: `EDM` : Electronic Document Management
 * :gb: `EDR` : Endpoint Detection and Response
