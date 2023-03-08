@@ -206,6 +206,7 @@
 * :gb: `HCL` : Hashicorp Configuration Language
 * :gb: `HDFS` : Hadoop Distributed File System
 * :gb: `HDMI` : High Definition Multimedia Interface
+* :gb: `HEIF` : High Efficiency Image File Format
 * :gb: `HTTP` : Hyper Text Transfert Protocol
 * :gb: `HSTS` : HTTP Strict Transport Security
 
@@ -316,6 +317,7 @@
 * :gb: `MDM` : Master Data Management
 * :gb: `MFL` : Message Format Language
 * :gb: `MO` : Middle-Office
+* :gb: `MPEG` : Moving Picture Experts Group
 * :gb: `MQTT` : Message Queuing Telemetry Transport
 * :gb: `MVP` : Minimum Viable Product
 * :gb: `MRU` : Most Recently Used
