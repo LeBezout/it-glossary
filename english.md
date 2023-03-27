@@ -487,6 +487,7 @@
 * :gb: `TCP` : Transmission Control Protocol
 * :gb: `TDD` : Tests Driven Development
 * :gb: `TFS` : Team Foundation Server
+* :gb: `TIME` : Tolerate, Invest, Migrate, Eliminate
 * :gb: `TL;DR` : Too Long; Don't Read
 * :gb: `TLS` : Transport Layer Security
 * :gb: `TTFB` : Time To first Byte
