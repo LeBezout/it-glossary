@@ -318,6 +318,7 @@
 * :gb: `MDM` : Master Data Management
 * :gb: `MFL` : Message Format Language
 * :gb: `MO` : Middle-Office
+* :gb: `MOM` : Message-Oriented Middleware
 * :gb: `MPEG` : Moving Picture Experts Group
 * :gb: `MQTT` : Message Queuing Telemetry Transport
 * :gb: `MVP` : Minimum Viable Product
