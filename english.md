@@ -125,6 +125,7 @@
 * :gb: `DI` : Dependency Injection
 * :gb: `DIP` : Dependency Inversion Principle
 * :gb: `DKIM` : DomainKeys Identified Mail
+* :gb: `DLQ` : Dead Letter Queue
 * :gb: `DMARC` : Domain-based Message Authentication, Reporting and Conformance
 * :gb: `DML` : Data Manipulation Language
 * :gb: `DMN` : Decision Model and Notation
