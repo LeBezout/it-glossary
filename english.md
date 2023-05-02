@@ -293,6 +293,7 @@
 * :gb: `KVI` : Key Value Indicator
 * :gb: `KVM` : Kernel-based Virtual Machine
 * :gb: `KVM` : Keyboard, Video, Mouse (switch)
+* :gb: `KYC` : Know Your Customer
 
 ## L
 
