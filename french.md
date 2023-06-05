@@ -14,6 +14,7 @@
 ## C
 
 * :fr: `CDN` : Centre De Numérisation
+* :fr: `CNDA` : Centre National de Dépôt et d'Agrément
 * :fr: `CNIL` : Commission Nationale sur l'Informatique et les Libertés
 * :fr: `CRC` : Contrôle de Redondance Cyclique
 
