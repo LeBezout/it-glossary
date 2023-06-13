@@ -43,6 +43,7 @@
 * :gb: `AST` : Abstract Syntax Tree
 * :gb: `ATDD` : Acceptance Test-Driven Development
 * :gb: `ATM` : Asynchronous Transfer Mode
+* :gb: `AWR` : Automatic Workload Repository
 * :gb: `AWS` : Amazon Web Services
 * :gb: `AWT` : Abstract Windows Toolkit
 
