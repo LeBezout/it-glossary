@@ -77,6 +77,7 @@
 * :gb: `CDD` : Community Driven Development
 * :gb: `CDD` : Contract Driven Development
 * :gb: `CDD` : Component Design Document
+* :gb: `CDH` : Customer Decision Hub
 * :gb: `CDI` : Contexts & Dependency Injection
 * :gb: `CDK` : Cloud Development Kit (AWS)
 * :gb: `CDN` : Content Delivery Network
