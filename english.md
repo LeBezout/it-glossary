@@ -197,6 +197,7 @@
 * :gb: `GPG` : GNU Privacy Guard
 * :gb: `GPGPU` : General-purpose Processing on Graphics Processing Unit
 * :gb: `GPL` : General Public License
+* :gb: `GPO` : Group Policy Object
 * :gb: `GPT` : Generative Pre-trained Transformer
 * :gb: `GPX` : GPS (Global Positioning System) Exchange Format
 * :gb: `GRUB` : GRand Unified Bootloader
