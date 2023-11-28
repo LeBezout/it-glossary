@@ -521,6 +521,7 @@
 * :gb: `VDI` : VirtualBox Disk Image
 * :gb: `VGA` : Video Graphics Array
 * :gb: `VHD` : Virtual Hard Drive
+* :gb: `VIM` : VIsual editor iMproved
 * :gb: `VLAN` : Virtual Local Area Network
 * :gb: `VMDK` : Virtual Machine Disk
 * :gb: `VM` : Virtual Machine
