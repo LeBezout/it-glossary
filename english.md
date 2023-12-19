@@ -313,6 +313,7 @@
 * :gb: `LRA` : Long Running Actions
 * :gb: `LSB` : Linux Standard Base
 * :gb: `LSP` : Liskov Substitution Principle
+* :gb: `LTR` : Left To Right
 * :gb: `LTS` : Long Term Support
 
 ## M
@@ -397,6 +398,7 @@
 * :gb: `PPI` : Pixels Per Inch
 * :gb: `PPM` : Pages Per Minute
 * :gb: `PRNG` : Pseudo Random Number Generator
+* :gb: `PRPL` : Preload - Render - Pre-cache - Lazy load
 * :gb: `PUE` : Power Usage Effectiveness
 * :gb: `PWA` : Progressive Web Apps
 
@@ -426,6 +428,7 @@
 * :gb: `RSS` : Rich Site Summary
 * :gb: `RSS` : Resident Set Size
 * :gb: `RTC` : Rational® Team Concert
+* :gb: `RTL` : Right To Left
 * :gb: `RTO` : Recovery Time Objective
 * :gb: `RVM` : Ruby Version Manager
 
