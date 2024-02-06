@@ -308,6 +308,7 @@
 * :gb: `LFRU` : Least Frequent Recently Used
 * :gb: `LFU` : Least Frequently Used
 * :gb: `LIFO` : Last In First Out
+* :gb: `LLM` : Large Language Model
 * :gb: `LLT` : Long Lived Transaction 
 * :gb: `LOV` : List Of Value
 * :gb: `LRA` : Long Running Actions
@@ -410,6 +411,7 @@
 * :gb: `RACI` : Responsible, Accountable, Consulted, Informed
 * :gb: `RBAC` : Role-Based Access Control
 * :gb: `RAD` : Rapid Application Development
+* :gb: `RAG` : Retrieval Augmented Generation
 * :gb: `RAID` : Redundant Array of Independent Disks
 * :gb: `RCE` : Remote Code Execution
 * :gb: `REPL` : Read-Evaluate-Print-Loop
