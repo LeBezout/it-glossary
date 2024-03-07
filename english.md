@@ -388,6 +388,7 @@
 * :gb: `PEP` : Python Enhancement Proposal
 * :gb: `PKCE` : Proof Key for Code Exchange
 * :gb: `PKI` : Public Key Infrastructure
+* :gb: `PKM` : Personal Knowledge Management
 * :gb: `PLM` : Product Life Cycle Management
 * :gb: `PMD` : Programming Mistake Detector (_unofficial_)
 * :gb: `POC` : Proof Of Concept
