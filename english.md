@@ -309,7 +309,8 @@
 * :gb: `LFU` : Least Frequently Used
 * :gb: `LIFO` : Last In First Out
 * :gb: `LLM` : Large Language Model
-* :gb: `LLT` : Long Lived Transaction 
+* :gb: `LLT` : Long Lived Transaction
+* :gb: `LOC` : Lines Of Code
 * :gb: `LOV` : List Of Value
 * :gb: `LRA` : Long Running Actions
 * :gb: `LSB` : Linux Standard Base
