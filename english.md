@@ -523,6 +523,7 @@
 
 ## V
 
+* :gb: `VAP` : Very Attacked People
 * :gb: `VDI` : Virtual Device Interface
 * :gb: `VDI` : Virtual Desktop Infrastructure
 * :gb: `VDI` : VirtualBox Disk Image
