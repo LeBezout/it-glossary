@@ -153,7 +153,7 @@
 
 * :gb: `EAI` : Enterprise Application Integration
 * :gb: `EAP` : Enterprise Application Platform
-* :gb: `EC2` : (Amazon) Elastic Compute Cloud 
+* :gb: `EC2` : (Amazon) Elastic Compute Cloud
 * :gb: `ECMA` : European Computer Manufacturers Association
 * :gb: `ECS` : Elastic Common Schema
 * :gb: `EDA` : Event Driven Architecture
@@ -426,6 +426,7 @@
 * :gb: `ROTI` : Return on Time Investment
 * :gb: `RPA` : Robotic Process Automation
 * :gb: `RPC` : Remote Procedure Call
+* :gb: `RPM` : Red Hat Package Manager -> RPM Package Manager
 * :gb: `RPO` : Recovery Point Objective
 * :gb: `RPP` : Rational® Programming Patterns
 * :gb: `RSA` : Rivest-Shamir-Adleman
@@ -509,6 +510,7 @@
 ## U
 
 * :gb: `UAT` : User Acceptance Testing
+* :gb: `UBI` : (Red Hat) Universal Base Images
 * :gb: `UCS` : Universal Character Set
 * :gb: `UDDI` : Universal Description Discovery and Integration
 * :gb: `UDP` : User Datagram Protocol
@@ -519,7 +521,7 @@
 * :gb: `URL` : Uniform Resource Locator
 * :gb: `UTF-8` : UCS Transformation Format, 8-bit form
 * :gb: `UTC` : Coordinated Universal Time
-* :gb: `UX` : User Experience 
+* :gb: `UX` : User Experience
 
 ## V
 
@@ -552,7 +554,7 @@
 * :gb: `WS-I` : Web Services Interoperability
 * :gb: `WS-S` : Web Services Security
 * :gb: `WSDL` : Web Services Description Language
-* :gb: `WSGI` : Web Server Gateway Interface 
+* :gb: `WSGI` : Web Server Gateway Interface
 * :gb: `WSL` : Windows Subsystem for Linux
 * :gb: `WSS` : Web Services Security
 * :gb: `WSSE` : Web Services Security
