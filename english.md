@@ -95,7 +95,7 @@
 * :gb: `CLS` : Cumulative Layout Shift
 * :gb: `CMMN` : Case Management Model and Notation
 * :gb: `CPU` : Central Processing Unit
-* :gb: `CQRS` : Command Query Responsability Separation
+* :gb: `CQRS` : Command Query Responsibility Separation
 * :gb: `CRC` : Cyclic Redundancy Check
 * :gb: `CRT` : Cathode Ray Tube
 * :gb: `CRUD` : Create Read Update Delete
@@ -140,7 +140,7 @@
 * :gb: `DOS` : Deni Of Service
 * :gb: `DOS` : (Microsoft) Disk Operating System
 * :gb: `DPI` : Dot Per Inch
-* :gb: `DRP` : Disaster Recory Plan
+* :gb: `DRP` : Disaster Recovery Plan
 * :gb: `DRY` : Don't Repeat Yourself
 * :gb: `DSA` : Digital Signature Algorithm
 * :gb: `DSC` : Desired State Configuration
@@ -176,7 +176,7 @@
 
 * :gb: `FaaS` : Function as a Service
 * :gb: `FAT` : File Allocation Table
-* :gb: `FCP` : First Contentul Paint
+* :gb: `FCP` : First Contentful Paint
 * :gb: `FFDC` : First Failure Data Capture (IBM)
 * :gb: `FID` : First Input Delay
 * :gb: `FIFO` : Fist In First Out
@@ -224,6 +224,8 @@
 * :gb: `IAC` : Infrastructure As Code
 * :gb: `ICR` : Intelligent Character Recognition
 * :gb: `IDE` : Integrated Development Environment
+* :gb: `IDP` : Internal Developer Platform
+* :gb: `IDP` : Internal Developer Portal
 * :gb: `IDZ` : IBM® Developer for z Systems
 * :gb: `IEC` : International Electrotechnichal Commission
 * :gb: `IEEE` : Institute of Electrical and Electronics Engineers
@@ -302,7 +304,7 @@
 
 * :gb: `LAN` : Local Area Network
 * :gb: `LAPS` : Local Administrator Password Solution
-* :gb: `LCP` : Largest Contentul Paint
+* :gb: `LCP` : Largest Contentful Paint
 * :gb: `LDAP` : Lightweight Directory Access Protocol
 * :gb: `LDIF` : LDAP Data Interchange File
 * :gb: `LFRU` : Least Frequent Recently Used
@@ -356,7 +358,7 @@
 * :gb: `OASIS` : Organization for the Advancement of Structured Information Standards
 * :gb: `OCI` : Open Container Initiative
 * :gb: `OCP` : Open/Closed Principle
-* :gb: `OCP` : (RedHat) Openshit Container Platform
+* :gb: `OCP` : (RedHat) Openshift Container Platform
 * :gb: `OCR` : Optical Character Recognition
 * :gb: `OIDC` : OpenID Connect
 * :gb: `OKD` : Open Kubernetes Distribution
@@ -409,7 +411,7 @@
 
 ## R
 
-* :gb: `R2DBC` : Reactive Relationnal DataBase Connectivity
+* :gb: `R2DBC` : Reactive Relational DataBase Connectivity
 * :gb: `RACI` : Responsible, Accountable, Consulted, Informed
 * :gb: `RBAC` : Role-Based Access Control
 * :gb: `RAD` : Rapid Application Development
