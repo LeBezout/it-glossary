@@ -323,6 +323,7 @@
 ## M
 
 * :gb: `MAC` : Medium Access Control
+* :gb: `MACH` : Microservices, API-first, Cloud-native, Headless (_Architecture_)
 * :gb: `MD5` : Message Digest 5
 * :gb: `MDC` : Mapped Diagnostic Context(s)
 * :gb: `MDM` : Master Data Management
@@ -388,6 +389,7 @@
 * :gb: `PDF` : Portable Document Format
 * :gb: `PDM` : Persistent Data Masking
 * :gb: `PDM` : Product Data Management
+* :gb: `PE` : Prompt Engineering
 * :gb: `PEP` : Python Enhancement Proposal
 * :gb: `PKCE` : Proof Key for Code Exchange
 * :gb: `PKI` : Public Key Infrastructure
@@ -468,6 +470,7 @@
 * :gb: `SLF4J` : Simple Logging Factory For Java
 * :gb: `SLO` : Service Level Objectives
 * :gb: `SNI` : Server Name Indication
+* :gb: `SLM` : Small Language Model
 * :gb: `SNMP` : Simple Network Management Protocol
 * :gb: `SMB` : Server Message Block
 * :gb: `SMTP` : Simple Mail Transfer Protocol

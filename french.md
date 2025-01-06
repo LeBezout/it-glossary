@@ -72,6 +72,7 @@
 
 * :fr: `RAD` : Reconniassance Automatique de Documents
 * :fr: `RGAA` : Règlement Général d'Amélioration de l'Accessibilité
+* :fr: `RGESN` : Référentiel général de l'écoconception des services numériques
 * :fr: `RGPD` : Règlement Général sur la Protection des Données
 * :fr: `RSSI` : Responsable de la Sécurité des Systèmes d'Information
 * :fr: `RTC` : Réseau Téléphonique Commuté
