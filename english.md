@@ -241,6 +241,7 @@
 * :gb: `ITSM` : IT Service Management
 * :gb: `ISE` : Integrated Scripting Environment (_Powershell_)
 * :gb: `ISP` : Interface Segregation Principle
+* :gb: `ISPF` : Interactive System Productivity Facility
 * :gb: `IV`: Initialization Vector
 
 ## J
@@ -263,6 +264,7 @@
   * `JAX-RS` : Java API for RESTful Web Services
   * `JCA` : Java Cryptography Architecture
   * `JCE` : Java Cryptography Extension
+  * `JCL` : Job Control Language
   * `JDBC` : Java DataBase Connectivity
   * `JDK` : Java Development Kit
   * `JDO` : Java Data Objects
@@ -335,6 +337,7 @@
 * :gb: `MVP` : Minimum Viable Product
 * :gb: `MRU` : Most Recently Used
 * :gb: `MTU` : Maximum Transmission Unit
+* :gb: `MVS` : Multiple Virtual Storage
 
 ## N
 
@@ -509,6 +512,8 @@
 * :gb: `TIME` : Tolerate, Invest, Migrate, Eliminate
 * :gb: `TL;DR` : Too Long; Don't Read
 * :gb: `TLS` : Transport Layer Security
+* :gb: `TM` : Transaction Manager
+* :gb: `TSO` : Time Sharing Option
 * :gb: `TTFB` : Time To first Byte
 * :gb: `TTL` : Time To Live
 
