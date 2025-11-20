@@ -118,10 +118,11 @@
 * :gb: `DCIM` : Digital Camera IMages
 * :gb: `DCIM` : Data Center Infrastructure Management
 * :gb: `DCL` : Data Control Language
+* :gb: `DCR` : Dynamic Client Registration
 * :gb: `DCRM` : Dynamic Client Registration Management
 * :gb: `DDD` : Domain Driven Design
 * :gb: `DDL` : Data Definition Language / Data Description Language
-* :gb: `DDOS` : Distributed Deni Of Service
+* :gb: `DDOS` : Distributed Denial Of Service
 * :gb: `DES` : Data Encryption Standard
 * :gb: `DHCP` : Dynamic Host Configuration Protocol
 * :gb: `DI` : Dependency Injection
@@ -137,7 +138,7 @@
 * :gb: `DOM` : Document Object Model
 * :gb: `DOR` : Definition Of Ready
 * :gb: `DORA` : DevOps Research and Assessment
-* :gb: `DOS` : Deni Of Service
+* :gb: `DOS` : Denial Of Service
 * :gb: `DOS` : (Microsoft) Disk Operating System
 * :gb: `DPI` : Dot Per Inch
 * :gb: `DRP` : Disaster Recovery Plan
@@ -326,6 +327,7 @@
 
 * :gb: `MAC` : Medium Access Control
 * :gb: `MACH` : Microservices, API-first, Cloud-native, Headless (_Architecture_)
+* :gb: `MCP` : Model Context Protocol
 * :gb: `MD5` : Message Digest 5
 * :gb: `MDC` : Mapped Diagnostic Context(s)
 * :gb: `MDM` : Master Data Management
