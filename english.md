@@ -38,6 +38,7 @@
 * :gb: `APT` : Advanced Persistent Threat
 * :gb: `APIM` : API Management
 * :gb: `APM` : Application Performance Management
+* :gb: `APM` : Agent Package Manager
 * :gb: `ARP` : Address Resolution Protocol
 * :gb: `ASF` : Apache Software Foundation
 * :gb: `AST` : Abstract Syntax Tree
@@ -191,6 +192,7 @@
 
 * :gb: `GDK` : GIMP Drawing Kit
 * :gb: `GDPR` : General Data Protection Regulation
+* :gb: `GHC` : GitHub Copilot
 * :gb: `GIMP` : GNU Image Manipulation Program
 * :gb: `GMT` : Greenwich Mean Time
 * :gb: `GNU` : GNU's Not UNIX
@@ -200,7 +202,8 @@
 * :gb: `GPL` : General Public License
 * :gb: `GPO` : Group Policy Object
 * :gb: `GPT` : Generative Pre-trained Transformer
-* :gb: `GPX` : GPS (Global Positioning System) Exchange Format
+* :gb: `GPS` : Global Positioning System
+* :gb: `GPX` : GPS Exchange Format
 * :gb: `GRUB` : GRand Unified Bootloader
 * :gb: `GTD` : Get Things Done
 * :gb: `GTK` : GIMP ToolKit
@@ -332,6 +335,7 @@
 * :gb: `MDC` : Mapped Diagnostic Context(s)
 * :gb: `MDM` : Master Data Management
 * :gb: `MFL` : Message Format Language
+* :gb: `ML` : Machine Learning
 * :gb: `MO` : Middle-Office
 * :gb: `MOM` : Message-Oriented Middleware
 * :gb: `MPEG` : Moving Picture Experts Group
