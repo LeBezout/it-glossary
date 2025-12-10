@@ -366,6 +366,7 @@
 * :gb: `OCP` : Open/Closed Principle
 * :gb: `OCP` : (RedHat) Openshift Container Platform
 * :gb: `OCR` : Optical Character Recognition
+* :gb: `ODBC` : Open Database Connectivity
 * :gb: `OIDC` : OpenID Connect
 * :gb: `OKD` : Open Kubernetes Distribution
 * :gb: `OKFN` : Open Knowledge Foundation
